@@ -7,4 +7,4 @@ timedatectl set-timezone Asia/Tokyo
 localectl set-locale LANG=ja_JP.utf8
 
 ### 運用系パッケージ
-yum install vim-enhanced bash-completion screen unzip wget curl nc colordiff source-highlight iptables-services
+yum install vim-enhanced bash-completion screen unzip wget curl nc colordiff source-highlight iptables-services tree
